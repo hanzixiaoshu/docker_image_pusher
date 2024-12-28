@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.8
+mysql:8.4
